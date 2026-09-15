@@ -1,0 +1,14 @@
+print("Hello Github!!")
+
+  name = input("ENTER YOUR NAME")
+
+
+  # Day 2 - Problem 1
+# Calculate the area of a rectangle
+
+length = float(input("Enter length: "))
+breadth = float(input("Enter breadth: "))
+
+area = length * breadth
+
+print("Area of rectangle =", area)
